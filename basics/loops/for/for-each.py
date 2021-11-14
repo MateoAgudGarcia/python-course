@@ -6,4 +6,3 @@ for temperatures in week.values():
 
 for days in week.keys():
     print(days.capitalize())
-
