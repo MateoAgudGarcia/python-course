@@ -1,0 +1,1 @@
+strings = ['abcd', 'defg', 'lkjh'] and integers = [1234, 5678, 987]
